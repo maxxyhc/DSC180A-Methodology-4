@@ -1,6 +1,6 @@
-**Name:** Yen Hsiang, Chiu 
-**Email:** yec0202@ucsd.edu
-**Section:** Agentic Applications and Knowledge Graphs in Life Sciences(B16)
+**Name:** Yen Hsiang, Chiu  
+**Email:** yec0202@ucsd.edu  
+**Section:** Agentic Applications and Knowledge Graphs in Life Sciences(B16)  
 **Mentors:**  Abed El-Husseini, Balaji Veeramani
 
 ---
